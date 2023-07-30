@@ -1,0 +1,22 @@
+.name {
+    @extend %odninput;
+margin-bottom: 28px;
+}
+
+.e-mail {
+    @extend %odninput;
+    margin-bottom: 28px;
+}
+
+
+.subject{
+    @extend %odninput
+}
+.contact {
+    background-color: #222222;
+}
+.block {
+    margin-right: 27px;
+    margin-bottom: 29px;
+}
+

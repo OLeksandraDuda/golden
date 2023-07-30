@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.subject, .e-mail, .name {
+  width: 455px;
+  height: 50px;
+  color: #BBB;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.35px;
+  text-transform: uppercase;
+  display: block;
+}
+
+.name {
+  margin-bottom: 28px;
+}
+
+.e-mail {
+  margin-bottom: 28px;
+}
+
+.contact {
+  background-color: #222222;
+}
+
+.block {
+  margin-right: 27px;
+  margin-bottom: 29px;
+}
+
+.area {
+  width: 458px;
+  height: 212px;
+  color: #BBB;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.35px;
+  text-transform: uppercase;
+  resize: none;
+}
+
+.flex-block {
+  display: flex;
+}
+
+.button {
+  display: block;
+  width: 242px;
+  height: 68px;
+  background-color: #FED136;
+  margin: 0 auto;
+}
+
+.contact {
+  padding-bottom: 115px;
+  padding-top: 257px;
+}
+
+.container {
+  max-width: 942px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
